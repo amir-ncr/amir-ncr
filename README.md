@@ -1,9 +1,19 @@
-- 👋 Hi, I’m Mohamed Amir Necer
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning BackEnd
-- 💞️ I’m looking to collaborate
+# Hi there, I'm [Mohamed Amir Necer] 👋
 
-<!---
-amir-ncr/amir-ncr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate full-stack web developer with experience in building responsive web applications using modern technologies. My goal is to create user-friendly and efficient solutions that enhance the overall user experience.
+
+## 🌱 About Me
+- 💻 I’m currently learning more about backend technologies and databases.
+- 🌐 I have experience with HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS.
+- 🎯 I’m focused on becoming a well-rounded full-stack developer.
+
+
+## 📫 How to Reach Me
+- 💼 LinkedIn: [your LinkedIn profile]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/mohamed-amir-necer/))
+- 🌐 Portfolio: Coming soon
+
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks:** React, Next.js
+- **Styling:** Tailwind CSS
+- **Tools:** Git, GitHub, Node.js
