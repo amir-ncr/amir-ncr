@@ -9,7 +9,7 @@ I'm a passionate full-stack web developer with experience in building responsive
 
 
 ## 📫 How to Reach Me
-- 💼 LinkedIn: ([https://www.linkedin.com/in/mohamed-amir-necer/])
+- 💼 LinkedIn: [https://www.linkedin.com/in/mohamed-amir-necer/]
 - 🌐 Portfolio: Coming soon
 
 ## 🛠️ Skills
